@@ -1,12 +1,9 @@
-# Sunnyside-agency
-
+## Sunnyside-agency
 Ce projet est un exercice qui consistait à reproduire le site Sunnyside
 
-#Technologies utiliser
-
+##Technologies utiliser
 -HTML
 -CSS
 
-#Note
-
+##Note
 Site no responsive, à ouvrir uniquement sur Desktop
